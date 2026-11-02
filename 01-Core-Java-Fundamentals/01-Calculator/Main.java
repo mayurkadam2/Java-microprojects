@@ -8,11 +8,11 @@ class Main{
         try{
 
             System.out.print("First Number: ");
-            double firstNum = sc.nextInt();
+            double firstNum = sc.nextDouble();
             System.out.print("Operator: ");
             char operator = sc.next().charAt(0);
             System.out.print("Second Number: ");
-            double secondNum = sc.nextInt();
+            double secondNum = sc.nextDouble();
 
             switch (operator) {
             
