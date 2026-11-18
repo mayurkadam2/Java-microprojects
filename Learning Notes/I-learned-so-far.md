@@ -1,3 +1,36 @@
+## Array Statistics 
+
+The class variables are initialized automatically even if are not assign any value to them, but the local variables are not initialized automatically we have to initialize them.
+
+after the project work is increasing I need to clone the single subfolder to my local system and work on that but the commit and everything looks difficult to solve that problem it is sparse checkout I am going to learn that in next few projects.
+
+Java only allows:
+
+Fields (instance variables)
+Constructors
+Methods
+Static blocks
+Inner classes
+
+directly inside a class.
+
+so we can not put statements directly inside any class.
+
+## Temperature converter.
+In this program I learned hub to all network architecture.
+It helped me to write less methods for all type of the conversion.
+I just standardised the temperatures to kelving no matter which unit we get convet it to kelvin,
+and from kelvin convert it to all other methods.
+
+Dependency injection of the scanner object so it will be used and closed in the main itself
+
+I learned build a method that should serve single purpose not many work at once, I used one method to get input, unit validation, and conversion, Instead of that I should have to make methods that serve a specific purpose so they will less independent on each other
+I learned that in SE less cohesion high ..
+
+because all temperatures are convetible to kelving so why not there is a method that accept the unit and value so it can be used.
+
+we can solve this step by step hirachy of the validations.
+
 ## Number Guessing game
 Used Random class to generate random number in a scale
 
